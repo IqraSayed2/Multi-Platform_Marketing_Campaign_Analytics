@@ -1,0 +1,2 @@
+Companies invest heavily in marketing campaigns across multiple platforms but lack clear insights into which campaigns, channels, and strategies generate the highest return on investment (ROI).
+This project analyzes marketing performance across Nykaa, Purplle, and Tira to optimize campaign effectiveness and budget allocation.
