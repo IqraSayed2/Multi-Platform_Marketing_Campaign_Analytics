@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes marketing campaign performance across multiple e-commerce platforms - **Nykaa, Purplle, and Tira** — to identify key drivers of revenue, optimize marketing spend, and improve conversion efficiency.
+This project analyzes marketing campaign performance across multiple e-commerce platforms - **Nykaa, Purplle, and Tira** - to identify key drivers of revenue, optimize marketing spend, and improve conversion efficiency.
 
 The dashboard provides a comprehensive view of:
 
